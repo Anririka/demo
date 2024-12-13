@@ -1,2 +1,3 @@
 # demo
-first-time demo.
+
+これはKaggle用の最初のチュートリアルです。
